@@ -7,5 +7,5 @@ Debian testing based `Docker` image with and `Chromium`. Build for `amd64`, `arm
 In your `Dockerfile`:
 
 ```docker
-FROM mwalliczek/chromium_docker:latest
+FROM mwalliczek/chromium:latest
 ```
